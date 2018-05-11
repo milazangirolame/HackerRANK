@@ -23,3 +23,11 @@ Implementation
 ```Implementation
 https://www.hackerrank.com/domains/algorithms/implementation
 ```
+
+
+Bonus exercises
+---------------
+training concepts of the study group Academia de Algoritmos @Garoa Hacker Clube
+```
+https://garoa.net.br/wiki/Clube_de_Estudos_de_Algoritmos
+```
